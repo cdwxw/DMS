@@ -10,7 +10,7 @@ import java.io.RandomAccessFile;
 import java.util.ArrayList;
 import java.util.List;
 
-import bo.LogData;
+import cn.wxw.bo.LogData;
 
 /**
  * 该类是一个工具类 负责读写数据
