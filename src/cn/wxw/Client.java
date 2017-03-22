@@ -17,8 +17,8 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-import bo.LogData;
-import bo.LogRec;
+import cn.wxw.bo.LogData;
+import cn.wxw.bo.LogRec;
 import cn.wxw.util.IOUtil;
 
 /**
