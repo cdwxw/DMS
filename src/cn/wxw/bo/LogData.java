@@ -1,4 +1,4 @@
-package bo;
+package cn.wxw.bo;
 
 /**
  * bo:business object 类似于 vo:value object

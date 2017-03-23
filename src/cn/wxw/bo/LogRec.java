@@ -1,4 +1,4 @@
-package bo;
+package cn.wxw.bo;
 
 /**
  * 该类用于描述一组匹配成对的日志
